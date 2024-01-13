@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Alice Johnson",
+      "position": "Frontend Developer",
+      "image": "alice.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/alicejohnson",
+        "facebook": "https://www.facebook.com/alice.johnson",
+        "twitter": "https://twitter.com/alice_dev"
+      }
+    },
+    {
+      "name": "Bob Smith",
+      "position": "Frontend Developer",
+      "image": "bob.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/bobsmith",
+        "facebook": "https://www.facebook.com/bob.smith",
+        "twitter": "https://twitter.com/bob_dev"
+      }
+    },
+    {
+      "name": "Charlie Davis",
+      "position": "Frontend Developer",
+      "image": "charlie.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/charliedavis",
+        "facebook": "https://www.facebook.com/charlie.davis",
+        "twitter": "https://twitter.com/charlie_dev"
+      }
+    },
+    {
+      "name": "David Miller",
+      "position": "Frontend Developer",
+      "image": "david.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/davidmiller",
+        "facebook": "https://www.facebook.com/david.miller",
+        "twitter": "https://twitter.com/david_dev"
+      }
+    },
+    {
+      "name": "Eva Taylor",
+      "position": "Frontend Developer",
+      "image": "eva.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/evataylor",
+        "facebook": "https://www.facebook.com/eva.taylor",
+        "twitter": "https://twitter.com/eva_dev"
+      }
+    },
+    {
+      "name": "Frank White",
+      "position": "Frontend Developer",
+      "image": "frank.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/frankwhite",
+        "facebook": "https://www.facebook.com/frank.white",
+        "twitter": "https://twitter.com/frank_dev"
+      }
+    }
+  ]
+  
