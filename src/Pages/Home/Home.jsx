@@ -1,13 +1,12 @@
 import Footer from "../../Components/Footer/Footer";
+import TeamMembers from "../TeamMembers/TeamMembers";
 
 
 const Home = () => {
     return (
         <div>
-
-
-            
-           <Footer></Footer>
+            <Footer></Footer>
+            <TeamMembers></TeamMembers>
         </div>
     );
 };
