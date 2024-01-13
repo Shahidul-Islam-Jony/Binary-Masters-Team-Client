@@ -1,10 +1,10 @@
+import TeamMembers from "../TeamMembers/TeamMembers";
 
 
 const Home = () => {
     return (
         <div>
-            This is Home page
-            <p>Test git repo</p>
+            <TeamMembers></TeamMembers>
         </div>
     );
 };
