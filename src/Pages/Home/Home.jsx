@@ -1,10 +1,13 @@
+import Footer from "../../Components/Footer/Footer";
 
 
 const Home = () => {
     return (
         <div>
-            This is Home page
-            <p>Test git repo</p>
+
+
+            
+           <Footer></Footer>
         </div>
     );
 };
